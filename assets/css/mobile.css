@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+}
+.headerbar{
+    width: 100%;
+}
+.name{
+    width:100%;
+}
+#choices{
+    width: 100%;
+    text-align: center;
+}
+.notecard{
+    width: 80%;
+    height: 95%;
+}
+.container{
+    flex-direction: column;
+    justify-content: center;
+}
+.projects{
+    width: 50%;
+    margin: auto;
+}
+.short{
+    padding-bottom: 30px;
+}
+.longer{
+    height: 1230px;
+}
